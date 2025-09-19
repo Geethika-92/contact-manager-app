@@ -1,9 +1,9 @@
-# Contact Management System (Django)
+# CONTACT MANAGEMENT SYSTEM (Django)
 
 A simple web-based contact management system built with Django. Users can add, view, update, and delete contact information using a clean interface and SQLite database.
 
 ---
-
+https://github.com/Geethika-92/contact-manager-app/edit/main/README.md
 ##  Features
 
 - Add new contacts with name, phone, and email
